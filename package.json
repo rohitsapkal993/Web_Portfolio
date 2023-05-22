@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "rohitsapkal993",
-  "homepage": "https://rohitsapkal993.github.io/port_5/",
+  "homepage": "https://rohitsapkal993.github.io/web_portfolio/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
