@@ -791,7 +791,7 @@ const contactPageData = {
     title: "Skills",
     subtitle:
       "Github repository for the more understanding of my skills.",
-    link: "https://rohitsapkal993.github.io/RohitS/",
+    link: "https://rohitsapkal993.github.io/rohitsapkal993/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
