@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Rohit's Portfolio",
   description:
-    "Software Developer | Python Developer | 3.6 years Hands on Experience | Data Scientist | Data Analyst | Business Analyst | ML Developer | AI Developer | Google And IBM Certified Data Analytics",
+    "Versatile Data Scientist & Analytics Expert@Onmarket Software Pvt.Ltd | AWS Solution Architect Assoc. | Python Advocate | | Skilled DevOps, MLOps & AICloud | Leading Business Triumphs with Data & Cloud-Native Expertise.",
   og: {
     title: "Rohit Sapkal Portfolio",
     type: "website",
@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "RohitSapkal",
   nickname: "RohitSapkalSci",
   subTitle:
-    "Software Developer | Python Developer | 3.6 years Hands on Experience | Data Scientist | Data Analyst | Business Analyst | ML Developer | AI Developer | Google And IBM Certified Data Analytics",
+    "Versatile Data Scientist & Analytics Expert@Onmarket Software Pvt.Ltd | AWS Solution Architect Assoc. | Python Advocate | | Skilled DevOps, MLOps & AICloud | Leading Business Triumphs with Data & Cloud-Native Expertise.",
   resumeLink:
-    "https://drive.google.com/drive/folders/18eYR8jVYHGsn0xZM8Sqjri4m8Tell1mT?usp=share_link",
+    "https://drive.google.com/file/d/1dN9JtCK09-ZW-DJtxF1k7NQQ7149OcMN/view?usp=sharing",
   portfolio_repository: "https://github.com/rohitsapkal993",
   githubProfile: "https://github.com/rohitsapkal993",
 };
